@@ -1,4 +1,5 @@
 #include <iostream>
+#include<stdio.h>
 double e(int x,int n)
 {
   static double p=1,f=1;
